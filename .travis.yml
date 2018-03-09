@@ -1,4 +1,7 @@
 os: osx
 language: ruby
-rvm:
-  - 2.2
+sudo: false
+cache: {
+  bundler: true
+}
+rvm: 2.1.3

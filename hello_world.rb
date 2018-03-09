@@ -4,9 +4,9 @@ class HelloWorld
        # YOUR CODE GOES HERE
        #
       if name != nil
-         puts "Hello, #{name}!"
+         "Hello " + name + "!"
       else
-         puts "Hello World!"
+         "Hello World!"
       end
    end
 end 

@@ -6,7 +6,7 @@ class HelloWorld
       if name != nil
          "Hello " + name + "!"
       else
-         "Hello World!"
+         "Hello, World!"
       end
    end
 end 
